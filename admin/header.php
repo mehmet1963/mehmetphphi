@@ -6,6 +6,7 @@ if(!isset($_SESSION['kadi'])){
 }
 
 require_once('baglan.php');
+
 ?>
 
 <!DOCTYPE html>

@@ -1,14 +1,6 @@
-<?php
-
-session_start();
-
-
-?>
-
+<?php session_start(); ?>
 
 <!DOCTYPE html>
-
-
 <html lang="en">
 
 <head>
@@ -73,3 +65,5 @@ session_start();
     <script src="../js/popper.min.js"></script>
     <script src="../js/bootstrap.min.js"></script>
 </body>
+
+</html>
